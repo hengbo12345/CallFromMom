@@ -1,6 +1,10 @@
 # CallFromMom
 Service for the old in remote area without enough treatment
 
+- Index
+  - [中文](https://github.com/hengbo12345/CallFromMom#中文)
+  - [English](https://github.com/hengbo12345/CallFromMom#English)
+
 ## 中文
 > 前言
 
